@@ -1,0 +1,1 @@
+/home/max/Desktop/derivacion_numerica/target/debug/derivadas: /home/max/Desktop/derivacion_numerica/src/funciones_numericos_2.rs /home/max/Desktop/derivacion_numerica/src/imprimir.rs /home/max/Desktop/derivacion_numerica/src/main.rs
