@@ -1,1 +1,1 @@
-/home/max/Desktop/odes/euler/target/debug/euler: /home/max/Desktop/odes/euler/src/main.rs
+/home/maxbarajas1979/Desktop/euler/target/debug/euler: /home/maxbarajas1979/Desktop/euler/src/main.rs
